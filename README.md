@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Donieck
 - 👀 I’m interested in Ubuntu Mate and FreeBSD.
 - 💞️ I’m looking to collaborate on BSD and Linux software.
-- 📫 How to reach me ...
+- I'm from Poland
 
 <!---
 Donieck/Donieck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
